@@ -7,7 +7,7 @@ class MainView extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Container(
-        child: Center(child: Text("App Started")),
+        child: Center(child: Text("Appi Started")),
       ),
     );
   }
